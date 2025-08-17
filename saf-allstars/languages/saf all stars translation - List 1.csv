@@ -1,0 +1,16 @@
+key,eng,hr
+START_BUTTON,START,POKRENI
+OPTIONS_BUTTON,OPTIONS,OPCIJE
+OPTIONS_MENU,Options,opcije
+BACK_BUTTON,BACK,NAZAD
+QUIT_BUTTON,QUIT,ODUSTANI
+GRAPHICS,Graphics,Grafike
+AUDIO,Audio,Audio
+MASTER_SOUND,master,master
+SONGS_SOUND,songs,pjesme
+SFX_SOUND,sfx,sfx
+ACCESSIBILITY,Accessibility,Pristupačnost
+CONTROLS,Controls,Kontrole
+LANGUAGES,Languages,Jezici
+PRIMARLY_LANGUAGE,English,Hrvatski
+LANGUAGE_BUTTON,Change,Promjeni

@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dboxrbk46uk1c"
+
+[deps]
+
+files=["res://languages/saf all stars translation - List 1.eng.translation", "res://languages/saf all stars translation - List 1.hr.translation"]
+
+source_file="res://languages/saf all stars translation - List 1.csv"
+dest_files=["res://languages/saf all stars translation - List 1.eng.translation", "res://languages/saf all stars translation - List 1.hr.translation"]
+
+[params]
+
+compress=true
+delimiter=0
